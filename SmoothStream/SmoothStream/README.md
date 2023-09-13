@@ -80,7 +80,7 @@ https://raspberrypi.stackexchange.com/questions/72308/how-to-stream-video-via-so
 
 ## Authors
 
-* **Vatsal Vasani** [VATS03](https://github.com/vats03)
+* **Vatsal Vasani** [Vats03](https://github.com/vats03)
 
 
 ## License
